@@ -1,0 +1,609 @@
+----------------------
+
+----------------------
+------- I = 1 -------
+----------------------
+
+----------------------
+
+
+NAS Parallel Benchmarks 3.4 -- MG Benchmark
+
+No input file. Using compiled defaults
+Size:  512x 512x 512  (class C)
+Iterations:   20
+Total number of processes:      1
+
+
+Initialization time:           4.229 seconds
+
+iter    1
+iter    5
+iter   10
+iter   15
+iter   20
+
+Benchmark completed
+VERIFICATION SUCCESSFUL
+L2 Norm is  0.5706732285705E-06
+Error is    0.6101090353211E-11
+
+
+MG Benchmark Completed.
+Class           =                        C
+Size            =            512x 512x 512
+Iterations      =                       20
+Time in seconds =                    30.14
+Total processes =                        1
+Active processes=                        1
+Mop/s total     =                  5165.96
+Mop/s/process   =                  5165.96
+Operation type  =           floating point
+Verification    =               SUCCESSFUL
+Version         =                    3.4.3
+Compile date    =              08 Dec 2024
+
+Compile options:
+MPIFC        = mpif90
+FLINK        = $(MPIFC)
+FMPI_LIB     = (none)
+FMPI_INC     = (none)
+FFLAGS       = -O3
+FLINKFLAGS   = $(FFLAGS)
+RAND         = randi8
+
+
+Please send feedbacks and/or the results of this run to:
+
+NPB Development Team
+Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 2 -------
+----------------------
+
+----------------------
+
+
+NAS Parallel Benchmarks 3.4 -- MG Benchmark
+
+No input file. Using compiled defaults
+Size:  512x 512x 512  (class C)
+Iterations:   20
+Total number of processes:      1
+
+
+Initialization time:           4.252 seconds
+
+iter    1
+iter    5
+iter   10
+iter   15
+iter   20
+
+Benchmark completed
+VERIFICATION SUCCESSFUL
+L2 Norm is  0.5706732285705E-06
+Error is    0.6101090353211E-11
+
+
+MG Benchmark Completed.
+Class           =                        C
+Size            =            512x 512x 512
+Iterations      =                       20
+Time in seconds =                    30.16
+Total processes =                        1
+Active processes=                        1
+Mop/s total     =                  5161.82
+Mop/s/process   =                  5161.82
+Operation type  =           floating point
+Verification    =               SUCCESSFUL
+Version         =                    3.4.3
+Compile date    =              08 Dec 2024
+
+Compile options:
+MPIFC        = mpif90
+FLINK        = $(MPIFC)
+FMPI_LIB     = (none)
+FMPI_INC     = (none)
+FFLAGS       = -O3
+FLINKFLAGS   = $(FFLAGS)
+RAND         = randi8
+
+
+Please send feedbacks and/or the results of this run to:
+
+NPB Development Team
+Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 3 -------
+----------------------
+
+----------------------
+
+
+NAS Parallel Benchmarks 3.4 -- MG Benchmark
+
+No input file. Using compiled defaults
+Size:  512x 512x 512  (class C)
+Iterations:   20
+Total number of processes:      1
+
+
+Initialization time:           4.245 seconds
+
+iter    1
+iter    5
+iter   10
+iter   15
+iter   20
+
+Benchmark completed
+VERIFICATION SUCCESSFUL
+L2 Norm is  0.5706732285705E-06
+Error is    0.6101090353211E-11
+
+
+MG Benchmark Completed.
+Class           =                        C
+Size            =            512x 512x 512
+Iterations      =                       20
+Time in seconds =                    30.35
+Total processes =                        1
+Active processes=                        1
+Mop/s total     =                  5130.02
+Mop/s/process   =                  5130.02
+Operation type  =           floating point
+Verification    =               SUCCESSFUL
+Version         =                    3.4.3
+Compile date    =              08 Dec 2024
+
+Compile options:
+MPIFC        = mpif90
+FLINK        = $(MPIFC)
+FMPI_LIB     = (none)
+FMPI_INC     = (none)
+FFLAGS       = -O3
+FLINKFLAGS   = $(FFLAGS)
+RAND         = randi8
+
+
+Please send feedbacks and/or the results of this run to:
+
+NPB Development Team
+Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 4 -------
+----------------------
+
+----------------------
+
+
+NAS Parallel Benchmarks 3.4 -- MG Benchmark
+
+No input file. Using compiled defaults
+Size:  512x 512x 512  (class C)
+Iterations:   20
+Total number of processes:      1
+
+
+Initialization time:           4.241 seconds
+
+iter    1
+iter    5
+iter   10
+iter   15
+iter   20
+
+Benchmark completed
+VERIFICATION SUCCESSFUL
+L2 Norm is  0.5706732285705E-06
+Error is    0.6101090353211E-11
+
+
+MG Benchmark Completed.
+Class           =                        C
+Size            =            512x 512x 512
+Iterations      =                       20
+Time in seconds =                    30.09
+Total processes =                        1
+Active processes=                        1
+Mop/s total     =                  5174.90
+Mop/s/process   =                  5174.90
+Operation type  =           floating point
+Verification    =               SUCCESSFUL
+Version         =                    3.4.3
+Compile date    =              08 Dec 2024
+
+Compile options:
+MPIFC        = mpif90
+FLINK        = $(MPIFC)
+FMPI_LIB     = (none)
+FMPI_INC     = (none)
+FFLAGS       = -O3
+FLINKFLAGS   = $(FFLAGS)
+RAND         = randi8
+
+
+Please send feedbacks and/or the results of this run to:
+
+NPB Development Team
+Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 5 -------
+----------------------
+
+----------------------
+
+
+NAS Parallel Benchmarks 3.4 -- MG Benchmark
+
+No input file. Using compiled defaults
+Size:  512x 512x 512  (class C)
+Iterations:   20
+Total number of processes:      1
+
+
+Initialization time:           4.241 seconds
+
+iter    1
+iter    5
+iter   10
+iter   15
+iter   20
+
+Benchmark completed
+VERIFICATION SUCCESSFUL
+L2 Norm is  0.5706732285705E-06
+Error is    0.6101090353211E-11
+
+
+MG Benchmark Completed.
+Class           =                        C
+Size            =            512x 512x 512
+Iterations      =                       20
+Time in seconds =                    30.04
+Total processes =                        1
+Active processes=                        1
+Mop/s total     =                  5182.52
+Mop/s/process   =                  5182.52
+Operation type  =           floating point
+Verification    =               SUCCESSFUL
+Version         =                    3.4.3
+Compile date    =              08 Dec 2024
+
+Compile options:
+MPIFC        = mpif90
+FLINK        = $(MPIFC)
+FMPI_LIB     = (none)
+FMPI_INC     = (none)
+FFLAGS       = -O3
+FLINKFLAGS   = $(FFLAGS)
+RAND         = randi8
+
+
+Please send feedbacks and/or the results of this run to:
+
+NPB Development Team
+Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 1 -------
+----------------------
+
+----------------------
+
+
+NAS Parallel Benchmarks 3.4 -- MG Benchmark
+
+No input file. Using compiled defaults
+Size:  512x 512x 512  (class C)
+Iterations:   20
+Total number of processes:      4
+
+
+Initialization time:           1.733 seconds
+
+iter    1
+iter    5
+iter   10
+iter   15
+iter   20
+
+Benchmark completed
+VERIFICATION SUCCESSFUL
+L2 Norm is  0.5706732285736E-06
+Error is    0.6632829951566E-12
+
+
+MG Benchmark Completed.
+Class           =                        C
+Size            =            512x 512x 512
+Iterations      =                       20
+Time in seconds =                    14.05
+Total processes =                        4
+Active processes=                        4
+Mop/s total     =                 11078.77
+Mop/s/process   =                  2769.69
+Operation type  =           floating point
+Verification    =               SUCCESSFUL
+Version         =                    3.4.3
+Compile date    =              08 Dec 2024
+
+Compile options:
+MPIFC        = mpif90
+FLINK        = $(MPIFC)
+FMPI_LIB     = (none)
+FMPI_INC     = (none)
+FFLAGS       = -O3
+FLINKFLAGS   = $(FFLAGS)
+RAND         = randi8
+
+
+Please send feedbacks and/or the results of this run to:
+
+NPB Development Team
+Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 2 -------
+----------------------
+
+----------------------
+
+
+NAS Parallel Benchmarks 3.4 -- MG Benchmark
+
+No input file. Using compiled defaults
+Size:  512x 512x 512  (class C)
+Iterations:   20
+Total number of processes:      4
+
+
+Initialization time:           1.738 seconds
+
+iter    1
+iter    5
+iter   10
+iter   15
+iter   20
+
+Benchmark completed
+VERIFICATION SUCCESSFUL
+L2 Norm is  0.5706732285736E-06
+Error is    0.6632829951566E-12
+
+
+MG Benchmark Completed.
+Class           =                        C
+Size            =            512x 512x 512
+Iterations      =                       20
+Time in seconds =                    14.14
+Total processes =                        4
+Active processes=                        4
+Mop/s total     =                 11014.04
+Mop/s/process   =                  2753.51
+Operation type  =           floating point
+Verification    =               SUCCESSFUL
+Version         =                    3.4.3
+Compile date    =              08 Dec 2024
+
+Compile options:
+MPIFC        = mpif90
+FLINK        = $(MPIFC)
+FMPI_LIB     = (none)
+FMPI_INC     = (none)
+FFLAGS       = -O3
+FLINKFLAGS   = $(FFLAGS)
+RAND         = randi8
+
+
+Please send feedbacks and/or the results of this run to:
+
+NPB Development Team
+Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 3 -------
+----------------------
+
+----------------------
+
+
+NAS Parallel Benchmarks 3.4 -- MG Benchmark
+
+No input file. Using compiled defaults
+Size:  512x 512x 512  (class C)
+Iterations:   20
+Total number of processes:      4
+
+
+Initialization time:           1.730 seconds
+
+iter    1
+iter    5
+iter   10
+iter   15
+iter   20
+
+Benchmark completed
+VERIFICATION SUCCESSFUL
+L2 Norm is  0.5706732285736E-06
+Error is    0.6632829951566E-12
+
+
+MG Benchmark Completed.
+Class           =                        C
+Size            =            512x 512x 512
+Iterations      =                       20
+Time in seconds =                    14.10
+Total processes =                        4
+Active processes=                        4
+Mop/s total     =                 11040.15
+Mop/s/process   =                  2760.04
+Operation type  =           floating point
+Verification    =               SUCCESSFUL
+Version         =                    3.4.3
+Compile date    =              08 Dec 2024
+
+Compile options:
+MPIFC        = mpif90
+FLINK        = $(MPIFC)
+FMPI_LIB     = (none)
+FMPI_INC     = (none)
+FFLAGS       = -O3
+FLINKFLAGS   = $(FFLAGS)
+RAND         = randi8
+
+
+Please send feedbacks and/or the results of this run to:
+
+NPB Development Team
+Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 4 -------
+----------------------
+
+----------------------
+
+
+NAS Parallel Benchmarks 3.4 -- MG Benchmark
+
+No input file. Using compiled defaults
+Size:  512x 512x 512  (class C)
+Iterations:   20
+Total number of processes:      4
+
+
+Initialization time:           1.725 seconds
+
+iter    1
+iter    5
+iter   10
+iter   15
+iter   20
+
+Benchmark completed
+VERIFICATION SUCCESSFUL
+L2 Norm is  0.5706732285736E-06
+Error is    0.6632829951566E-12
+
+
+MG Benchmark Completed.
+Class           =                        C
+Size            =            512x 512x 512
+Iterations      =                       20
+Time in seconds =                    14.13
+Total processes =                        4
+Active processes=                        4
+Mop/s total     =                 11017.82
+Mop/s/process   =                  2754.46
+Operation type  =           floating point
+Verification    =               SUCCESSFUL
+Version         =                    3.4.3
+Compile date    =              08 Dec 2024
+
+Compile options:
+MPIFC        = mpif90
+FLINK        = $(MPIFC)
+FMPI_LIB     = (none)
+FMPI_INC     = (none)
+FFLAGS       = -O3
+FLINKFLAGS   = $(FFLAGS)
+RAND         = randi8
+
+
+Please send feedbacks and/or the results of this run to:
+
+NPB Development Team
+Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 5 -------
+----------------------
+
+----------------------
+
+
+NAS Parallel Benchmarks 3.4 -- MG Benchmark
+
+No input file. Using compiled defaults
+Size:  512x 512x 512  (class C)
+Iterations:   20
+Total number of processes:      4
+
+
+Initialization time:           1.736 seconds
+
+iter    1
+iter    5
+iter   10
+iter   15
+iter   20
+
+Benchmark completed
+VERIFICATION SUCCESSFUL
+L2 Norm is  0.5706732285736E-06
+Error is    0.6632829951566E-12
+
+
+MG Benchmark Completed.
+Class           =                        C
+Size            =            512x 512x 512
+Iterations      =                       20
+Time in seconds =                    14.01
+Total processes =                        4
+Active processes=                        4
+Mop/s total     =                 11110.29
+Mop/s/process   =                  2777.57
+Operation type  =           floating point
+Verification    =               SUCCESSFUL
+Version         =                    3.4.3
+Compile date    =              08 Dec 2024
+
+Compile options:
+MPIFC        = mpif90
+FLINK        = $(MPIFC)
+FMPI_LIB     = (none)
+FMPI_INC     = (none)
+FFLAGS       = -O3
+FLINKFLAGS   = $(FFLAGS)
+RAND         = randi8
+
+
+Please send feedbacks and/or the results of this run to:
+
+NPB Development Team
+Internet: npb@nas.nasa.gov
+

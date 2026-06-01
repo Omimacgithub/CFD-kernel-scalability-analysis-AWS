@@ -1,0 +1,1750 @@
+----------------------
+
+----------------------
+------- I = 1 -------
+----------------------
+
+----------------------
+
+
+ NAS Parallel Benchmarks 3.4 -- CG Benchmark
+
+ Size:     150000  (class C)
+ Iterations:    75
+ Number of nonzeroes per row:       15
+ Eigenvalue shift:   110.000
+ Total number of processes:      1
+
+   iteration           ||r||                 zeta
+        1       0.48234431173952E-12   109.9994423237398
+        5       0.11886771894963E-14    28.6471670038885
+       10       0.12082951489145E-14    28.9496695448994
+       15       0.12098629452510E-14    28.9716336228364
+       20       0.12111799404999E-14    28.9734210663746
+       25       0.12157366104819E-14    28.9735863059394
+       30       0.12130178537380E-14    28.9736033967622
+       35       0.12090796426934E-14    28.9736053266234
+       40       0.12104427271092E-14    28.9736055590683
+       45       0.12018175839238E-14    28.9736055884115
+       50       0.12063268698261E-14    28.9736055922496
+       55       0.12056144710026E-14    28.9736055927632
+       60       0.12024957335314E-14    28.9736055928340
+       65       0.12036586856011E-14    28.9736055928427
+       70       0.12090369981388E-14    28.9736055928445
+       75       0.12053174104701E-14    28.9736055928454
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.2897360559285E+02
+ Error is    0.1287499186384E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        C
+ Size            =                   150000
+ Iterations      =                       75
+ Time in seconds =                   226.98
+ Total processes =                        1
+ Active processes=                        1
+ Mop/s total     =                   631.55
+ Mop/s/process   =                   631.55
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.4.3
+ Compile date    =              10 Dec 2024
+
+ Compile options:
+    MPIFC        = mpif90
+    FLINK        = $(MPIFC)
+    FMPI_LIB     = (none)
+    FMPI_INC     = (none)
+    FFLAGS       = -O3
+    FLINKFLAGS   = $(FFLAGS)
+    RAND         = randi8
+
+
+ Please send feedbacks and/or the results of this run to:
+
+ NPB Development Team 
+ Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 2 -------
+----------------------
+
+----------------------
+
+
+ NAS Parallel Benchmarks 3.4 -- CG Benchmark
+
+ Size:     150000  (class C)
+ Iterations:    75
+ Number of nonzeroes per row:       15
+ Eigenvalue shift:   110.000
+ Total number of processes:      1
+
+   iteration           ||r||                 zeta
+        1       0.48234431173952E-12   109.9994423237398
+        5       0.11886771894963E-14    28.6471670038885
+       10       0.12082951489145E-14    28.9496695448994
+       15       0.12098629452510E-14    28.9716336228364
+       20       0.12111799404999E-14    28.9734210663746
+       25       0.12157366104819E-14    28.9735863059394
+       30       0.12130178537380E-14    28.9736033967622
+       35       0.12090796426934E-14    28.9736053266234
+       40       0.12104427271092E-14    28.9736055590683
+       45       0.12018175839238E-14    28.9736055884115
+       50       0.12063268698261E-14    28.9736055922496
+       55       0.12056144710026E-14    28.9736055927632
+       60       0.12024957335314E-14    28.9736055928340
+       65       0.12036586856011E-14    28.9736055928427
+       70       0.12090369981388E-14    28.9736055928445
+       75       0.12053174104701E-14    28.9736055928454
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.2897360559285E+02
+ Error is    0.1287499186384E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        C
+ Size            =                   150000
+ Iterations      =                       75
+ Time in seconds =                   226.96
+ Total processes =                        1
+ Active processes=                        1
+ Mop/s total     =                   631.59
+ Mop/s/process   =                   631.59
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.4.3
+ Compile date    =              10 Dec 2024
+
+ Compile options:
+    MPIFC        = mpif90
+    FLINK        = $(MPIFC)
+    FMPI_LIB     = (none)
+    FMPI_INC     = (none)
+    FFLAGS       = -O3
+    FLINKFLAGS   = $(FFLAGS)
+    RAND         = randi8
+
+
+ Please send feedbacks and/or the results of this run to:
+
+ NPB Development Team 
+ Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 3 -------
+----------------------
+
+----------------------
+
+
+ NAS Parallel Benchmarks 3.4 -- CG Benchmark
+
+ Size:     150000  (class C)
+ Iterations:    75
+ Number of nonzeroes per row:       15
+ Eigenvalue shift:   110.000
+ Total number of processes:      1
+
+   iteration           ||r||                 zeta
+        1       0.48234431173952E-12   109.9994423237398
+        5       0.11886771894963E-14    28.6471670038885
+       10       0.12082951489145E-14    28.9496695448994
+       15       0.12098629452510E-14    28.9716336228364
+       20       0.12111799404999E-14    28.9734210663746
+       25       0.12157366104819E-14    28.9735863059394
+       30       0.12130178537380E-14    28.9736033967622
+       35       0.12090796426934E-14    28.9736053266234
+       40       0.12104427271092E-14    28.9736055590683
+       45       0.12018175839238E-14    28.9736055884115
+       50       0.12063268698261E-14    28.9736055922496
+       55       0.12056144710026E-14    28.9736055927632
+       60       0.12024957335314E-14    28.9736055928340
+       65       0.12036586856011E-14    28.9736055928427
+       70       0.12090369981388E-14    28.9736055928445
+       75       0.12053174104701E-14    28.9736055928454
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.2897360559285E+02
+ Error is    0.1287499186384E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        C
+ Size            =                   150000
+ Iterations      =                       75
+ Time in seconds =                   227.10
+ Total processes =                        1
+ Active processes=                        1
+ Mop/s total     =                   631.21
+ Mop/s/process   =                   631.21
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.4.3
+ Compile date    =              10 Dec 2024
+
+ Compile options:
+    MPIFC        = mpif90
+    FLINK        = $(MPIFC)
+    FMPI_LIB     = (none)
+    FMPI_INC     = (none)
+    FFLAGS       = -O3
+    FLINKFLAGS   = $(FFLAGS)
+    RAND         = randi8
+
+
+ Please send feedbacks and/or the results of this run to:
+
+ NPB Development Team 
+ Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 4 -------
+----------------------
+
+----------------------
+
+
+ NAS Parallel Benchmarks 3.4 -- CG Benchmark
+
+ Size:     150000  (class C)
+ Iterations:    75
+ Number of nonzeroes per row:       15
+ Eigenvalue shift:   110.000
+ Total number of processes:      1
+
+   iteration           ||r||                 zeta
+        1       0.48234431173952E-12   109.9994423237398
+        5       0.11886771894963E-14    28.6471670038885
+       10       0.12082951489145E-14    28.9496695448994
+       15       0.12098629452510E-14    28.9716336228364
+       20       0.12111799404999E-14    28.9734210663746
+       25       0.12157366104819E-14    28.9735863059394
+       30       0.12130178537380E-14    28.9736033967622
+       35       0.12090796426934E-14    28.9736053266234
+       40       0.12104427271092E-14    28.9736055590683
+       45       0.12018175839238E-14    28.9736055884115
+       50       0.12063268698261E-14    28.9736055922496
+       55       0.12056144710026E-14    28.9736055927632
+       60       0.12024957335314E-14    28.9736055928340
+       65       0.12036586856011E-14    28.9736055928427
+       70       0.12090369981388E-14    28.9736055928445
+       75       0.12053174104701E-14    28.9736055928454
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.2897360559285E+02
+ Error is    0.1287499186384E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        C
+ Size            =                   150000
+ Iterations      =                       75
+ Time in seconds =                   227.12
+ Total processes =                        1
+ Active processes=                        1
+ Mop/s total     =                   631.15
+ Mop/s/process   =                   631.15
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.4.3
+ Compile date    =              10 Dec 2024
+
+ Compile options:
+    MPIFC        = mpif90
+    FLINK        = $(MPIFC)
+    FMPI_LIB     = (none)
+    FMPI_INC     = (none)
+    FFLAGS       = -O3
+    FLINKFLAGS   = $(FFLAGS)
+    RAND         = randi8
+
+
+ Please send feedbacks and/or the results of this run to:
+
+ NPB Development Team 
+ Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 5 -------
+----------------------
+
+----------------------
+
+
+ NAS Parallel Benchmarks 3.4 -- CG Benchmark
+
+ Size:     150000  (class C)
+ Iterations:    75
+ Number of nonzeroes per row:       15
+ Eigenvalue shift:   110.000
+ Total number of processes:      1
+
+   iteration           ||r||                 zeta
+        1       0.48234431173952E-12   109.9994423237398
+        5       0.11886771894963E-14    28.6471670038885
+       10       0.12082951489145E-14    28.9496695448994
+       15       0.12098629452510E-14    28.9716336228364
+       20       0.12111799404999E-14    28.9734210663746
+       25       0.12157366104819E-14    28.9735863059394
+       30       0.12130178537380E-14    28.9736033967622
+       35       0.12090796426934E-14    28.9736053266234
+       40       0.12104427271092E-14    28.9736055590683
+       45       0.12018175839238E-14    28.9736055884115
+       50       0.12063268698261E-14    28.9736055922496
+       55       0.12056144710026E-14    28.9736055927632
+       60       0.12024957335314E-14    28.9736055928340
+       65       0.12036586856011E-14    28.9736055928427
+       70       0.12090369981388E-14    28.9736055928445
+       75       0.12053174104701E-14    28.9736055928454
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.2897360559285E+02
+ Error is    0.1287499186384E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        C
+ Size            =                   150000
+ Iterations      =                       75
+ Time in seconds =                   226.93
+ Total processes =                        1
+ Active processes=                        1
+ Mop/s total     =                   631.69
+ Mop/s/process   =                   631.69
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.4.3
+ Compile date    =              10 Dec 2024
+
+ Compile options:
+    MPIFC        = mpif90
+    FLINK        = $(MPIFC)
+    FMPI_LIB     = (none)
+    FMPI_INC     = (none)
+    FFLAGS       = -O3
+    FLINKFLAGS   = $(FFLAGS)
+    RAND         = randi8
+
+
+ Please send feedbacks and/or the results of this run to:
+
+ NPB Development Team 
+ Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 1 -------
+----------------------
+
+----------------------
+
+
+ NAS Parallel Benchmarks 3.4 -- CG Benchmark
+
+ Size:     150000  (class C)
+ Iterations:    75
+ Number of nonzeroes per row:       15
+ Eigenvalue shift:   110.000
+ Total number of processes:      2
+
+   iteration           ||r||                 zeta
+        1       0.34918028513489E-12   109.9994423237398
+        5       0.95373147965057E-15    28.6471670038882
+       10       0.95984970808734E-15    28.9496695449005
+       15       0.96086676866082E-15    28.9716336228368
+       20       0.96457382743280E-15    28.9734210663758
+       25       0.95815516189961E-15    28.9735863059383
+       30       0.96122924599343E-15    28.9736033967627
+       35       0.95819450134146E-15    28.9736053266252
+       40       0.95596041801372E-15    28.9736055590703
+       45       0.95371145597657E-15    28.9736055884132
+       50       0.95764123496239E-15    28.9736055922487
+       55       0.95659170926785E-15    28.9736055927623
+       60       0.95323859143322E-15    28.9736055928346
+       65       0.95664021979590E-15    28.9736055928435
+       70       0.95281554497492E-15    28.9736055928450
+       75       0.95214517773215E-15    28.9736055928458
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.2897360559285E+02
+ Error is    0.2709879239913E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        C
+ Size            =                   150000
+ Iterations      =                       75
+ Time in seconds =                   199.69
+ Total processes =                        2
+ Active processes=                        2
+ Mop/s total     =                   717.86
+ Mop/s/process   =                   358.93
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.4.3
+ Compile date    =              10 Dec 2024
+
+ Compile options:
+    MPIFC        = mpif90
+    FLINK        = $(MPIFC)
+    FMPI_LIB     = (none)
+    FMPI_INC     = (none)
+    FFLAGS       = -O3
+    FLINKFLAGS   = $(FFLAGS)
+    RAND         = randi8
+
+
+ Please send feedbacks and/or the results of this run to:
+
+ NPB Development Team 
+ Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 2 -------
+----------------------
+
+----------------------
+
+
+ NAS Parallel Benchmarks 3.4 -- CG Benchmark
+
+ Size:     150000  (class C)
+ Iterations:    75
+ Number of nonzeroes per row:       15
+ Eigenvalue shift:   110.000
+ Total number of processes:      2
+
+   iteration           ||r||                 zeta
+        1       0.34918028513489E-12   109.9994423237398
+        5       0.95373147965057E-15    28.6471670038882
+       10       0.95984970808734E-15    28.9496695449005
+       15       0.96086676866082E-15    28.9716336228368
+       20       0.96457382743280E-15    28.9734210663758
+       25       0.95815516189961E-15    28.9735863059383
+       30       0.96122924599343E-15    28.9736033967627
+       35       0.95819450134146E-15    28.9736053266252
+       40       0.95596041801372E-15    28.9736055590703
+       45       0.95371145597657E-15    28.9736055884132
+       50       0.95764123496239E-15    28.9736055922487
+       55       0.95659170926785E-15    28.9736055927623
+       60       0.95323859143322E-15    28.9736055928346
+       65       0.95664021979590E-15    28.9736055928435
+       70       0.95281554497492E-15    28.9736055928450
+       75       0.95214517773215E-15    28.9736055928458
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.2897360559285E+02
+ Error is    0.2709879239913E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        C
+ Size            =                   150000
+ Iterations      =                       75
+ Time in seconds =                   199.69
+ Total processes =                        2
+ Active processes=                        2
+ Mop/s total     =                   717.85
+ Mop/s/process   =                   358.92
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.4.3
+ Compile date    =              10 Dec 2024
+
+ Compile options:
+    MPIFC        = mpif90
+    FLINK        = $(MPIFC)
+    FMPI_LIB     = (none)
+    FMPI_INC     = (none)
+    FFLAGS       = -O3
+    FLINKFLAGS   = $(FFLAGS)
+    RAND         = randi8
+
+
+ Please send feedbacks and/or the results of this run to:
+
+ NPB Development Team 
+ Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 3 -------
+----------------------
+
+----------------------
+
+
+ NAS Parallel Benchmarks 3.4 -- CG Benchmark
+
+ Size:     150000  (class C)
+ Iterations:    75
+ Number of nonzeroes per row:       15
+ Eigenvalue shift:   110.000
+ Total number of processes:      2
+
+   iteration           ||r||                 zeta
+        1       0.34918028513489E-12   109.9994423237398
+        5       0.95373147965057E-15    28.6471670038882
+       10       0.95984970808734E-15    28.9496695449005
+       15       0.96086676866082E-15    28.9716336228368
+       20       0.96457382743280E-15    28.9734210663758
+       25       0.95815516189961E-15    28.9735863059383
+       30       0.96122924599343E-15    28.9736033967627
+       35       0.95819450134146E-15    28.9736053266252
+       40       0.95596041801372E-15    28.9736055590703
+       45       0.95371145597657E-15    28.9736055884132
+       50       0.95764123496239E-15    28.9736055922487
+       55       0.95659170926785E-15    28.9736055927623
+       60       0.95323859143322E-15    28.9736055928346
+       65       0.95664021979590E-15    28.9736055928435
+       70       0.95281554497492E-15    28.9736055928450
+       75       0.95214517773215E-15    28.9736055928458
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.2897360559285E+02
+ Error is    0.2709879239913E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        C
+ Size            =                   150000
+ Iterations      =                       75
+ Time in seconds =                   199.85
+ Total processes =                        2
+ Active processes=                        2
+ Mop/s total     =                   717.26
+ Mop/s/process   =                   358.63
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.4.3
+ Compile date    =              10 Dec 2024
+
+ Compile options:
+    MPIFC        = mpif90
+    FLINK        = $(MPIFC)
+    FMPI_LIB     = (none)
+    FMPI_INC     = (none)
+    FFLAGS       = -O3
+    FLINKFLAGS   = $(FFLAGS)
+    RAND         = randi8
+
+
+ Please send feedbacks and/or the results of this run to:
+
+ NPB Development Team 
+ Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 4 -------
+----------------------
+
+----------------------
+
+
+ NAS Parallel Benchmarks 3.4 -- CG Benchmark
+
+ Size:     150000  (class C)
+ Iterations:    75
+ Number of nonzeroes per row:       15
+ Eigenvalue shift:   110.000
+ Total number of processes:      2
+
+   iteration           ||r||                 zeta
+        1       0.34918028513489E-12   109.9994423237398
+        5       0.95373147965057E-15    28.6471670038882
+       10       0.95984970808734E-15    28.9496695449005
+       15       0.96086676866082E-15    28.9716336228368
+       20       0.96457382743280E-15    28.9734210663758
+       25       0.95815516189961E-15    28.9735863059383
+       30       0.96122924599343E-15    28.9736033967627
+       35       0.95819450134146E-15    28.9736053266252
+       40       0.95596041801372E-15    28.9736055590703
+       45       0.95371145597657E-15    28.9736055884132
+       50       0.95764123496239E-15    28.9736055922487
+       55       0.95659170926785E-15    28.9736055927623
+       60       0.95323859143322E-15    28.9736055928346
+       65       0.95664021979590E-15    28.9736055928435
+       70       0.95281554497492E-15    28.9736055928450
+       75       0.95214517773215E-15    28.9736055928458
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.2897360559285E+02
+ Error is    0.2709879239913E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        C
+ Size            =                   150000
+ Iterations      =                       75
+ Time in seconds =                   206.73
+ Total processes =                        2
+ Active processes=                        2
+ Mop/s total     =                   693.39
+ Mop/s/process   =                   346.70
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.4.3
+ Compile date    =              10 Dec 2024
+
+ Compile options:
+    MPIFC        = mpif90
+    FLINK        = $(MPIFC)
+    FMPI_LIB     = (none)
+    FMPI_INC     = (none)
+    FFLAGS       = -O3
+    FLINKFLAGS   = $(FFLAGS)
+    RAND         = randi8
+
+
+ Please send feedbacks and/or the results of this run to:
+
+ NPB Development Team 
+ Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 5 -------
+----------------------
+
+----------------------
+
+
+ NAS Parallel Benchmarks 3.4 -- CG Benchmark
+
+ Size:     150000  (class C)
+ Iterations:    75
+ Number of nonzeroes per row:       15
+ Eigenvalue shift:   110.000
+ Total number of processes:      2
+
+   iteration           ||r||                 zeta
+        1       0.34918028513489E-12   109.9994423237398
+        5       0.95373147965057E-15    28.6471670038882
+       10       0.95984970808734E-15    28.9496695449005
+       15       0.96086676866082E-15    28.9716336228368
+       20       0.96457382743280E-15    28.9734210663758
+       25       0.95815516189961E-15    28.9735863059383
+       30       0.96122924599343E-15    28.9736033967627
+       35       0.95819450134146E-15    28.9736053266252
+       40       0.95596041801372E-15    28.9736055590703
+       45       0.95371145597657E-15    28.9736055884132
+       50       0.95764123496239E-15    28.9736055922487
+       55       0.95659170926785E-15    28.9736055927623
+       60       0.95323859143322E-15    28.9736055928346
+       65       0.95664021979590E-15    28.9736055928435
+       70       0.95281554497492E-15    28.9736055928450
+       75       0.95214517773215E-15    28.9736055928458
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.2897360559285E+02
+ Error is    0.2709879239913E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        C
+ Size            =                   150000
+ Iterations      =                       75
+ Time in seconds =                   200.02
+ Total processes =                        2
+ Active processes=                        2
+ Mop/s total     =                   716.68
+ Mop/s/process   =                   358.34
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.4.3
+ Compile date    =              10 Dec 2024
+
+ Compile options:
+    MPIFC        = mpif90
+    FLINK        = $(MPIFC)
+    FMPI_LIB     = (none)
+    FMPI_INC     = (none)
+    FFLAGS       = -O3
+    FLINKFLAGS   = $(FFLAGS)
+    RAND         = randi8
+
+
+ Please send feedbacks and/or the results of this run to:
+
+ NPB Development Team 
+ Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 1 -------
+----------------------
+
+----------------------
+
+
+ NAS Parallel Benchmarks 3.4 -- CG Benchmark
+
+ Size:     150000  (class C)
+ Iterations:    75
+ Number of nonzeroes per row:       15
+ Eigenvalue shift:   110.000
+ Total number of processes:      4
+
+   iteration           ||r||                 zeta
+        1       0.34918028513489E-12   109.9994423237398
+        5       0.95373147965057E-15    28.6471670038882
+       10       0.95984970808734E-15    28.9496695449005
+       15       0.96086676866082E-15    28.9716336228368
+       20       0.96457382743280E-15    28.9734210663758
+       25       0.95815516189961E-15    28.9735863059383
+       30       0.96122924599343E-15    28.9736033967627
+       35       0.95819450134146E-15    28.9736053266252
+       40       0.95596041801372E-15    28.9736055590703
+       45       0.95371145597657E-15    28.9736055884132
+       50       0.95764123496239E-15    28.9736055922487
+       55       0.95659170926785E-15    28.9736055927623
+       60       0.95323859143322E-15    28.9736055928346
+       65       0.95664021979590E-15    28.9736055928435
+       70       0.95281554497492E-15    28.9736055928450
+       75       0.95214517773215E-15    28.9736055928458
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.2897360559285E+02
+ Error is    0.2709879239913E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        C
+ Size            =                   150000
+ Iterations      =                       75
+ Time in seconds =                   103.76
+ Total processes =                        4
+ Active processes=                        4
+ Mop/s total     =                  1381.52
+ Mop/s/process   =                   345.38
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.4.3
+ Compile date    =              10 Dec 2024
+
+ Compile options:
+    MPIFC        = mpif90
+    FLINK        = $(MPIFC)
+    FMPI_LIB     = (none)
+    FMPI_INC     = (none)
+    FFLAGS       = -O3
+    FLINKFLAGS   = $(FFLAGS)
+    RAND         = randi8
+
+
+ Please send feedbacks and/or the results of this run to:
+
+ NPB Development Team 
+ Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 2 -------
+----------------------
+
+----------------------
+
+
+ NAS Parallel Benchmarks 3.4 -- CG Benchmark
+
+ Size:     150000  (class C)
+ Iterations:    75
+ Number of nonzeroes per row:       15
+ Eigenvalue shift:   110.000
+ Total number of processes:      4
+
+   iteration           ||r||                 zeta
+        1       0.34918028513489E-12   109.9994423237398
+        5       0.95373147965057E-15    28.6471670038882
+       10       0.95984970808734E-15    28.9496695449005
+       15       0.96086676866082E-15    28.9716336228368
+       20       0.96457382743280E-15    28.9734210663758
+       25       0.95815516189961E-15    28.9735863059383
+       30       0.96122924599343E-15    28.9736033967627
+       35       0.95819450134146E-15    28.9736053266252
+       40       0.95596041801372E-15    28.9736055590703
+       45       0.95371145597657E-15    28.9736055884132
+       50       0.95764123496239E-15    28.9736055922487
+       55       0.95659170926785E-15    28.9736055927623
+       60       0.95323859143322E-15    28.9736055928346
+       65       0.95664021979590E-15    28.9736055928435
+       70       0.95281554497492E-15    28.9736055928450
+       75       0.95214517773215E-15    28.9736055928458
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.2897360559285E+02
+ Error is    0.2709879239913E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        C
+ Size            =                   150000
+ Iterations      =                       75
+ Time in seconds =                   103.61
+ Total processes =                        4
+ Active processes=                        4
+ Mop/s total     =                  1383.49
+ Mop/s/process   =                   345.87
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.4.3
+ Compile date    =              10 Dec 2024
+
+ Compile options:
+    MPIFC        = mpif90
+    FLINK        = $(MPIFC)
+    FMPI_LIB     = (none)
+    FMPI_INC     = (none)
+    FFLAGS       = -O3
+    FLINKFLAGS   = $(FFLAGS)
+    RAND         = randi8
+
+
+ Please send feedbacks and/or the results of this run to:
+
+ NPB Development Team 
+ Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 3 -------
+----------------------
+
+----------------------
+
+
+ NAS Parallel Benchmarks 3.4 -- CG Benchmark
+
+ Size:     150000  (class C)
+ Iterations:    75
+ Number of nonzeroes per row:       15
+ Eigenvalue shift:   110.000
+ Total number of processes:      4
+
+   iteration           ||r||                 zeta
+        1       0.34918028513489E-12   109.9994423237398
+        5       0.95373147965057E-15    28.6471670038882
+       10       0.95984970808734E-15    28.9496695449005
+       15       0.96086676866082E-15    28.9716336228368
+       20       0.96457382743280E-15    28.9734210663758
+       25       0.95815516189961E-15    28.9735863059383
+       30       0.96122924599343E-15    28.9736033967627
+       35       0.95819450134146E-15    28.9736053266252
+       40       0.95596041801372E-15    28.9736055590703
+       45       0.95371145597657E-15    28.9736055884132
+       50       0.95764123496239E-15    28.9736055922487
+       55       0.95659170926785E-15    28.9736055927623
+       60       0.95323859143322E-15    28.9736055928346
+       65       0.95664021979590E-15    28.9736055928435
+       70       0.95281554497492E-15    28.9736055928450
+       75       0.95214517773215E-15    28.9736055928458
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.2897360559285E+02
+ Error is    0.2709879239913E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        C
+ Size            =                   150000
+ Iterations      =                       75
+ Time in seconds =                   103.37
+ Total processes =                        4
+ Active processes=                        4
+ Mop/s total     =                  1386.69
+ Mop/s/process   =                   346.67
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.4.3
+ Compile date    =              10 Dec 2024
+
+ Compile options:
+    MPIFC        = mpif90
+    FLINK        = $(MPIFC)
+    FMPI_LIB     = (none)
+    FMPI_INC     = (none)
+    FFLAGS       = -O3
+    FLINKFLAGS   = $(FFLAGS)
+    RAND         = randi8
+
+
+ Please send feedbacks and/or the results of this run to:
+
+ NPB Development Team 
+ Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 4 -------
+----------------------
+
+----------------------
+
+
+ NAS Parallel Benchmarks 3.4 -- CG Benchmark
+
+ Size:     150000  (class C)
+ Iterations:    75
+ Number of nonzeroes per row:       15
+ Eigenvalue shift:   110.000
+ Total number of processes:      4
+
+   iteration           ||r||                 zeta
+        1       0.34918028513489E-12   109.9994423237398
+        5       0.95373147965057E-15    28.6471670038882
+       10       0.95984970808734E-15    28.9496695449005
+       15       0.96086676866082E-15    28.9716336228368
+       20       0.96457382743280E-15    28.9734210663758
+       25       0.95815516189961E-15    28.9735863059383
+       30       0.96122924599343E-15    28.9736033967627
+       35       0.95819450134146E-15    28.9736053266252
+       40       0.95596041801372E-15    28.9736055590703
+       45       0.95371145597657E-15    28.9736055884132
+       50       0.95764123496239E-15    28.9736055922487
+       55       0.95659170926785E-15    28.9736055927623
+       60       0.95323859143322E-15    28.9736055928346
+       65       0.95664021979590E-15    28.9736055928435
+       70       0.95281554497492E-15    28.9736055928450
+       75       0.95214517773215E-15    28.9736055928458
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.2897360559285E+02
+ Error is    0.2709879239913E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        C
+ Size            =                   150000
+ Iterations      =                       75
+ Time in seconds =                   103.60
+ Total processes =                        4
+ Active processes=                        4
+ Mop/s total     =                  1383.63
+ Mop/s/process   =                   345.91
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.4.3
+ Compile date    =              10 Dec 2024
+
+ Compile options:
+    MPIFC        = mpif90
+    FLINK        = $(MPIFC)
+    FMPI_LIB     = (none)
+    FMPI_INC     = (none)
+    FFLAGS       = -O3
+    FLINKFLAGS   = $(FFLAGS)
+    RAND         = randi8
+
+
+ Please send feedbacks and/or the results of this run to:
+
+ NPB Development Team 
+ Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 5 -------
+----------------------
+
+----------------------
+
+
+ NAS Parallel Benchmarks 3.4 -- CG Benchmark
+
+ Size:     150000  (class C)
+ Iterations:    75
+ Number of nonzeroes per row:       15
+ Eigenvalue shift:   110.000
+ Total number of processes:      4
+
+   iteration           ||r||                 zeta
+        1       0.34918028513489E-12   109.9994423237398
+        5       0.95373147965057E-15    28.6471670038882
+       10       0.95984970808734E-15    28.9496695449005
+       15       0.96086676866082E-15    28.9716336228368
+       20       0.96457382743280E-15    28.9734210663758
+       25       0.95815516189961E-15    28.9735863059383
+       30       0.96122924599343E-15    28.9736033967627
+       35       0.95819450134146E-15    28.9736053266252
+       40       0.95596041801372E-15    28.9736055590703
+       45       0.95371145597657E-15    28.9736055884132
+       50       0.95764123496239E-15    28.9736055922487
+       55       0.95659170926785E-15    28.9736055927623
+       60       0.95323859143322E-15    28.9736055928346
+       65       0.95664021979590E-15    28.9736055928435
+       70       0.95281554497492E-15    28.9736055928450
+       75       0.95214517773215E-15    28.9736055928458
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.2897360559285E+02
+ Error is    0.2709879239913E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        C
+ Size            =                   150000
+ Iterations      =                       75
+ Time in seconds =                   103.74
+ Total processes =                        4
+ Active processes=                        4
+ Mop/s total     =                  1381.80
+ Mop/s/process   =                   345.45
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.4.3
+ Compile date    =              10 Dec 2024
+
+ Compile options:
+    MPIFC        = mpif90
+    FLINK        = $(MPIFC)
+    FMPI_LIB     = (none)
+    FMPI_INC     = (none)
+    FFLAGS       = -O3
+    FLINKFLAGS   = $(FFLAGS)
+    RAND         = randi8
+
+
+ Please send feedbacks and/or the results of this run to:
+
+ NPB Development Team 
+ Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 1 -------
+----------------------
+
+----------------------
+
+
+ NAS Parallel Benchmarks 3.4 -- CG Benchmark
+
+ Size:     150000  (class C)
+ Iterations:    75
+ Number of nonzeroes per row:       15
+ Eigenvalue shift:   110.000
+ Total number of processes:      8
+
+   iteration           ||r||                 zeta
+        1       0.25684152458809E-12   109.9994423237398
+        5       0.73349711397114E-15    28.6471670038893
+       10       0.73571071517574E-15    28.9496695449003
+       15       0.73033004640843E-15    28.9716336228371
+       20       0.73080537355320E-15    28.9734210663747
+       25       0.73114465989435E-15    28.9735863059382
+       30       0.73315053133034E-15    28.9736033967627
+       35       0.72896232937332E-15    28.9736053266246
+       40       0.72921046240435E-15    28.9736055590700
+       45       0.73199816886206E-15    28.9736055884132
+       50       0.72508406402431E-15    28.9736055922485
+       55       0.72793759015979E-15    28.9736055927632
+       60       0.72308226746960E-15    28.9736055928339
+       65       0.72558602502673E-15    28.9736055928440
+       70       0.72378150618886E-15    28.9736055928455
+       75       0.72186248070828E-15    28.9736055928458
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.2897360559285E+02
+ Error is    0.2857022004072E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        C
+ Size            =                   150000
+ Iterations      =                       75
+ Time in seconds =                    32.54
+ Total processes =                        8
+ Active processes=                        8
+ Mop/s total     =                  4405.79
+ Mop/s/process   =                   550.72
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.4.3
+ Compile date    =              10 Dec 2024
+
+ Compile options:
+    MPIFC        = mpif90
+    FLINK        = $(MPIFC)
+    FMPI_LIB     = (none)
+    FMPI_INC     = (none)
+    FFLAGS       = -O3
+    FLINKFLAGS   = $(FFLAGS)
+    RAND         = randi8
+
+
+ Please send feedbacks and/or the results of this run to:
+
+ NPB Development Team 
+ Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 2 -------
+----------------------
+
+----------------------
+
+
+ NAS Parallel Benchmarks 3.4 -- CG Benchmark
+
+ Size:     150000  (class C)
+ Iterations:    75
+ Number of nonzeroes per row:       15
+ Eigenvalue shift:   110.000
+ Total number of processes:      8
+
+   iteration           ||r||                 zeta
+        1       0.25684152458809E-12   109.9994423237398
+        5       0.73349711397114E-15    28.6471670038893
+       10       0.73571071517574E-15    28.9496695449003
+       15       0.73033004640843E-15    28.9716336228371
+       20       0.73080537355320E-15    28.9734210663747
+       25       0.73114465989435E-15    28.9735863059382
+       30       0.73315053133034E-15    28.9736033967627
+       35       0.72896232937332E-15    28.9736053266246
+       40       0.72921046240435E-15    28.9736055590700
+       45       0.73199816886206E-15    28.9736055884132
+       50       0.72508406402431E-15    28.9736055922485
+       55       0.72793759015979E-15    28.9736055927632
+       60       0.72308226746960E-15    28.9736055928339
+       65       0.72558602502673E-15    28.9736055928440
+       70       0.72378150618886E-15    28.9736055928455
+       75       0.72186248070828E-15    28.9736055928458
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.2897360559285E+02
+ Error is    0.2857022004072E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        C
+ Size            =                   150000
+ Iterations      =                       75
+ Time in seconds =                    32.79
+ Total processes =                        8
+ Active processes=                        8
+ Mop/s total     =                  4371.34
+ Mop/s/process   =                   546.42
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.4.3
+ Compile date    =              10 Dec 2024
+
+ Compile options:
+    MPIFC        = mpif90
+    FLINK        = $(MPIFC)
+    FMPI_LIB     = (none)
+    FMPI_INC     = (none)
+    FFLAGS       = -O3
+    FLINKFLAGS   = $(FFLAGS)
+    RAND         = randi8
+
+
+ Please send feedbacks and/or the results of this run to:
+
+ NPB Development Team 
+ Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 3 -------
+----------------------
+
+----------------------
+
+
+ NAS Parallel Benchmarks 3.4 -- CG Benchmark
+
+ Size:     150000  (class C)
+ Iterations:    75
+ Number of nonzeroes per row:       15
+ Eigenvalue shift:   110.000
+ Total number of processes:      8
+
+   iteration           ||r||                 zeta
+        1       0.25684152458809E-12   109.9994423237398
+        5       0.73349711397114E-15    28.6471670038893
+       10       0.73571071517574E-15    28.9496695449003
+       15       0.73033004640843E-15    28.9716336228371
+       20       0.73080537355320E-15    28.9734210663747
+       25       0.73114465989435E-15    28.9735863059382
+       30       0.73315053133034E-15    28.9736033967627
+       35       0.72896232937332E-15    28.9736053266246
+       40       0.72921046240435E-15    28.9736055590700
+       45       0.73199816886206E-15    28.9736055884132
+       50       0.72508406402431E-15    28.9736055922485
+       55       0.72793759015979E-15    28.9736055927632
+       60       0.72308226746960E-15    28.9736055928339
+       65       0.72558602502673E-15    28.9736055928440
+       70       0.72378150618886E-15    28.9736055928455
+       75       0.72186248070828E-15    28.9736055928458
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.2897360559285E+02
+ Error is    0.2857022004072E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        C
+ Size            =                   150000
+ Iterations      =                       75
+ Time in seconds =                    32.67
+ Total processes =                        8
+ Active processes=                        8
+ Mop/s total     =                  4387.42
+ Mop/s/process   =                   548.43
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.4.3
+ Compile date    =              10 Dec 2024
+
+ Compile options:
+    MPIFC        = mpif90
+    FLINK        = $(MPIFC)
+    FMPI_LIB     = (none)
+    FMPI_INC     = (none)
+    FFLAGS       = -O3
+    FLINKFLAGS   = $(FFLAGS)
+    RAND         = randi8
+
+
+ Please send feedbacks and/or the results of this run to:
+
+ NPB Development Team 
+ Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 4 -------
+----------------------
+
+----------------------
+
+
+ NAS Parallel Benchmarks 3.4 -- CG Benchmark
+
+ Size:     150000  (class C)
+ Iterations:    75
+ Number of nonzeroes per row:       15
+ Eigenvalue shift:   110.000
+ Total number of processes:      8
+
+   iteration           ||r||                 zeta
+        1       0.25684152458809E-12   109.9994423237398
+        5       0.73349711397114E-15    28.6471670038893
+       10       0.73571071517574E-15    28.9496695449003
+       15       0.73033004640843E-15    28.9716336228371
+       20       0.73080537355320E-15    28.9734210663747
+       25       0.73114465989435E-15    28.9735863059382
+       30       0.73315053133034E-15    28.9736033967627
+       35       0.72896232937332E-15    28.9736053266246
+       40       0.72921046240435E-15    28.9736055590700
+       45       0.73199816886206E-15    28.9736055884132
+       50       0.72508406402431E-15    28.9736055922485
+       55       0.72793759015979E-15    28.9736055927632
+       60       0.72308226746960E-15    28.9736055928339
+       65       0.72558602502673E-15    28.9736055928440
+       70       0.72378150618886E-15    28.9736055928455
+       75       0.72186248070828E-15    28.9736055928458
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.2897360559285E+02
+ Error is    0.2857022004072E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        C
+ Size            =                   150000
+ Iterations      =                       75
+ Time in seconds =                    32.80
+ Total processes =                        8
+ Active processes=                        8
+ Mop/s total     =                  4369.73
+ Mop/s/process   =                   546.22
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.4.3
+ Compile date    =              10 Dec 2024
+
+ Compile options:
+    MPIFC        = mpif90
+    FLINK        = $(MPIFC)
+    FMPI_LIB     = (none)
+    FMPI_INC     = (none)
+    FFLAGS       = -O3
+    FLINKFLAGS   = $(FFLAGS)
+    RAND         = randi8
+
+
+ Please send feedbacks and/or the results of this run to:
+
+ NPB Development Team 
+ Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 5 -------
+----------------------
+
+----------------------
+
+
+ NAS Parallel Benchmarks 3.4 -- CG Benchmark
+
+ Size:     150000  (class C)
+ Iterations:    75
+ Number of nonzeroes per row:       15
+ Eigenvalue shift:   110.000
+ Total number of processes:      8
+
+   iteration           ||r||                 zeta
+        1       0.25684152458809E-12   109.9994423237398
+        5       0.73349711397114E-15    28.6471670038893
+       10       0.73571071517574E-15    28.9496695449003
+       15       0.73033004640843E-15    28.9716336228371
+       20       0.73080537355320E-15    28.9734210663747
+       25       0.73114465989435E-15    28.9735863059382
+       30       0.73315053133034E-15    28.9736033967627
+       35       0.72896232937332E-15    28.9736053266246
+       40       0.72921046240435E-15    28.9736055590700
+       45       0.73199816886206E-15    28.9736055884132
+       50       0.72508406402431E-15    28.9736055922485
+       55       0.72793759015979E-15    28.9736055927632
+       60       0.72308226746960E-15    28.9736055928339
+       65       0.72558602502673E-15    28.9736055928440
+       70       0.72378150618886E-15    28.9736055928455
+       75       0.72186248070828E-15    28.9736055928458
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.2897360559285E+02
+ Error is    0.2857022004072E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        C
+ Size            =                   150000
+ Iterations      =                       75
+ Time in seconds =                    32.77
+ Total processes =                        8
+ Active processes=                        8
+ Mop/s total     =                  4374.10
+ Mop/s/process   =                   546.76
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.4.3
+ Compile date    =              10 Dec 2024
+
+ Compile options:
+    MPIFC        = mpif90
+    FLINK        = $(MPIFC)
+    FMPI_LIB     = (none)
+    FMPI_INC     = (none)
+    FFLAGS       = -O3
+    FLINKFLAGS   = $(FFLAGS)
+    RAND         = randi8
+
+
+ Please send feedbacks and/or the results of this run to:
+
+ NPB Development Team 
+ Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 1 -------
+----------------------
+
+----------------------
+
+
+ NAS Parallel Benchmarks 3.4 -- CG Benchmark
+
+ Size:     150000  (class C)
+ Iterations:    75
+ Number of nonzeroes per row:       15
+ Eigenvalue shift:   110.000
+ Total number of processes:     16
+
+   iteration           ||r||                 zeta
+        1       0.25684152458809E-12   109.9994423237398
+        5       0.73349711397114E-15    28.6471670038893
+       10       0.73571071517574E-15    28.9496695449003
+       15       0.73033004640843E-15    28.9716336228371
+       20       0.73080537355320E-15    28.9734210663747
+       25       0.73114465989435E-15    28.9735863059382
+       30       0.73315053133034E-15    28.9736033967627
+       35       0.72896232937332E-15    28.9736053266246
+       40       0.72921046240435E-15    28.9736055590700
+       45       0.73199816886206E-15    28.9736055884132
+       50       0.72508406402431E-15    28.9736055922485
+       55       0.72793759015979E-15    28.9736055927632
+       60       0.72308226746960E-15    28.9736055928339
+       65       0.72558602502673E-15    28.9736055928440
+       70       0.72378150618886E-15    28.9736055928455
+       75       0.72186248070828E-15    28.9736055928458
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.2897360559285E+02
+ Error is    0.2857022004072E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        C
+ Size            =                   150000
+ Iterations      =                       75
+ Time in seconds =                    22.88
+ Total processes =                       16
+ Active processes=                       16
+ Mop/s total     =                  6266.32
+ Mop/s/process   =                   391.64
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.4.3
+ Compile date    =              10 Dec 2024
+
+ Compile options:
+    MPIFC        = mpif90
+    FLINK        = $(MPIFC)
+    FMPI_LIB     = (none)
+    FMPI_INC     = (none)
+    FFLAGS       = -O3
+    FLINKFLAGS   = $(FFLAGS)
+    RAND         = randi8
+
+
+ Please send feedbacks and/or the results of this run to:
+
+ NPB Development Team 
+ Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 2 -------
+----------------------
+
+----------------------
+
+
+ NAS Parallel Benchmarks 3.4 -- CG Benchmark
+
+ Size:     150000  (class C)
+ Iterations:    75
+ Number of nonzeroes per row:       15
+ Eigenvalue shift:   110.000
+ Total number of processes:     16
+
+   iteration           ||r||                 zeta
+        1       0.25684152458809E-12   109.9994423237398
+        5       0.73349711397114E-15    28.6471670038893
+       10       0.73571071517574E-15    28.9496695449003
+       15       0.73033004640843E-15    28.9716336228371
+       20       0.73080537355320E-15    28.9734210663747
+       25       0.73114465989435E-15    28.9735863059382
+       30       0.73315053133034E-15    28.9736033967627
+       35       0.72896232937332E-15    28.9736053266246
+       40       0.72921046240435E-15    28.9736055590700
+       45       0.73199816886206E-15    28.9736055884132
+       50       0.72508406402431E-15    28.9736055922485
+       55       0.72793759015979E-15    28.9736055927632
+       60       0.72308226746960E-15    28.9736055928339
+       65       0.72558602502673E-15    28.9736055928440
+       70       0.72378150618886E-15    28.9736055928455
+       75       0.72186248070828E-15    28.9736055928458
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.2897360559285E+02
+ Error is    0.2857022004072E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        C
+ Size            =                   150000
+ Iterations      =                       75
+ Time in seconds =                    21.53
+ Total processes =                       16
+ Active processes=                       16
+ Mop/s total     =                  6658.62
+ Mop/s/process   =                   416.16
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.4.3
+ Compile date    =              10 Dec 2024
+
+ Compile options:
+    MPIFC        = mpif90
+    FLINK        = $(MPIFC)
+    FMPI_LIB     = (none)
+    FMPI_INC     = (none)
+    FFLAGS       = -O3
+    FLINKFLAGS   = $(FFLAGS)
+    RAND         = randi8
+
+
+ Please send feedbacks and/or the results of this run to:
+
+ NPB Development Team 
+ Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 3 -------
+----------------------
+
+----------------------
+
+
+ NAS Parallel Benchmarks 3.4 -- CG Benchmark
+
+ Size:     150000  (class C)
+ Iterations:    75
+ Number of nonzeroes per row:       15
+ Eigenvalue shift:   110.000
+ Total number of processes:     16
+
+   iteration           ||r||                 zeta
+        1       0.25684152458809E-12   109.9994423237398
+        5       0.73349711397114E-15    28.6471670038893
+       10       0.73571071517574E-15    28.9496695449003
+       15       0.73033004640843E-15    28.9716336228371
+       20       0.73080537355320E-15    28.9734210663747
+       25       0.73114465989435E-15    28.9735863059382
+       30       0.73315053133034E-15    28.9736033967627
+       35       0.72896232937332E-15    28.9736053266246
+       40       0.72921046240435E-15    28.9736055590700
+       45       0.73199816886206E-15    28.9736055884132
+       50       0.72508406402431E-15    28.9736055922485
+       55       0.72793759015979E-15    28.9736055927632
+       60       0.72308226746960E-15    28.9736055928339
+       65       0.72558602502673E-15    28.9736055928440
+       70       0.72378150618886E-15    28.9736055928455
+       75       0.72186248070828E-15    28.9736055928458
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.2897360559285E+02
+ Error is    0.2857022004072E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        C
+ Size            =                   150000
+ Iterations      =                       75
+ Time in seconds =                    22.33
+ Total processes =                       16
+ Active processes=                       16
+ Mop/s total     =                  6419.49
+ Mop/s/process   =                   401.22
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.4.3
+ Compile date    =              10 Dec 2024
+
+ Compile options:
+    MPIFC        = mpif90
+    FLINK        = $(MPIFC)
+    FMPI_LIB     = (none)
+    FMPI_INC     = (none)
+    FFLAGS       = -O3
+    FLINKFLAGS   = $(FFLAGS)
+    RAND         = randi8
+
+
+ Please send feedbacks and/or the results of this run to:
+
+ NPB Development Team 
+ Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 4 -------
+----------------------
+
+----------------------
+
+
+ NAS Parallel Benchmarks 3.4 -- CG Benchmark
+
+ Size:     150000  (class C)
+ Iterations:    75
+ Number of nonzeroes per row:       15
+ Eigenvalue shift:   110.000
+ Total number of processes:     16
+
+   iteration           ||r||                 zeta
+        1       0.25684152458809E-12   109.9994423237398
+        5       0.73349711397114E-15    28.6471670038893
+       10       0.73571071517574E-15    28.9496695449003
+       15       0.73033004640843E-15    28.9716336228371
+       20       0.73080537355320E-15    28.9734210663747
+       25       0.73114465989435E-15    28.9735863059382
+       30       0.73315053133034E-15    28.9736033967627
+       35       0.72896232937332E-15    28.9736053266246
+       40       0.72921046240435E-15    28.9736055590700
+       45       0.73199816886206E-15    28.9736055884132
+       50       0.72508406402431E-15    28.9736055922485
+       55       0.72793759015979E-15    28.9736055927632
+       60       0.72308226746960E-15    28.9736055928339
+       65       0.72558602502673E-15    28.9736055928440
+       70       0.72378150618886E-15    28.9736055928455
+       75       0.72186248070828E-15    28.9736055928458
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.2897360559285E+02
+ Error is    0.2857022004072E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        C
+ Size            =                   150000
+ Iterations      =                       75
+ Time in seconds =                    23.05
+ Total processes =                       16
+ Active processes=                       16
+ Mop/s total     =                  6218.37
+ Mop/s/process   =                   388.65
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.4.3
+ Compile date    =              10 Dec 2024
+
+ Compile options:
+    MPIFC        = mpif90
+    FLINK        = $(MPIFC)
+    FMPI_LIB     = (none)
+    FMPI_INC     = (none)
+    FFLAGS       = -O3
+    FLINKFLAGS   = $(FFLAGS)
+    RAND         = randi8
+
+
+ Please send feedbacks and/or the results of this run to:
+
+ NPB Development Team 
+ Internet: npb@nas.nasa.gov
+
+
+----------------------
+
+----------------------
+------- I = 5 -------
+----------------------
+
+----------------------
+
+
+ NAS Parallel Benchmarks 3.4 -- CG Benchmark
+
+ Size:     150000  (class C)
+ Iterations:    75
+ Number of nonzeroes per row:       15
+ Eigenvalue shift:   110.000
+ Total number of processes:     16
+
+   iteration           ||r||                 zeta
+        1       0.25684152458809E-12   109.9994423237398
+        5       0.73349711397114E-15    28.6471670038893
+       10       0.73571071517574E-15    28.9496695449003
+       15       0.73033004640843E-15    28.9716336228371
+       20       0.73080537355320E-15    28.9734210663747
+       25       0.73114465989435E-15    28.9735863059382
+       30       0.73315053133034E-15    28.9736033967627
+       35       0.72896232937332E-15    28.9736053266246
+       40       0.72921046240435E-15    28.9736055590700
+       45       0.73199816886206E-15    28.9736055884132
+       50       0.72508406402431E-15    28.9736055922485
+       55       0.72793759015979E-15    28.9736055927632
+       60       0.72308226746960E-15    28.9736055928339
+       65       0.72558602502673E-15    28.9736055928440
+       70       0.72378150618886E-15    28.9736055928455
+       75       0.72186248070828E-15    28.9736055928458
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ Zeta is     0.2897360559285E+02
+ Error is    0.2857022004072E-13
+
+
+ CG Benchmark Completed.
+ Class           =                        C
+ Size            =                   150000
+ Iterations      =                       75
+ Time in seconds =                    21.35
+ Total processes =                       16
+ Active processes=                       16
+ Mop/s total     =                  6712.68
+ Mop/s/process   =                   419.54
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.4.3
+ Compile date    =              10 Dec 2024
+
+ Compile options:
+    MPIFC        = mpif90
+    FLINK        = $(MPIFC)
+    FMPI_LIB     = (none)
+    FMPI_INC     = (none)
+    FFLAGS       = -O3
+    FLINKFLAGS   = $(FFLAGS)
+    RAND         = randi8
+
+
+ Please send feedbacks and/or the results of this run to:
+
+ NPB Development Team 
+ Internet: npb@nas.nasa.gov
+
+
